@@ -7,12 +7,16 @@ as of now, I was inspired by this [Google Ad][ad],
 where parents send their daughter emails as she is
 growing up. I wanted to replicate something similar.
 
+<div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R4vkVHijdQk?rel=0" frameborder="0" allowfullscreen>
 </iframe>
 
 <noframes>
     <a href="https://www.youtube.com/watch?v=R4vkVHijdQk"><img src="assets/img/youtube-ad.jpg"></a>
 </noframes>
+</div>
+
+[![Youtube Ad](https://shauryaa.in/assets/img/youtube-ad.jpg)][ad]
 
 ## Email Setup
 
