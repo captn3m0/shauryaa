@@ -40,8 +40,8 @@ addresses:
 
 - Based on https://github.com/willianjusten/will-jekyll-template
 - Instagram icon from https://codepen.io/ruandre/pen/howFi
-- Color theme suggested by @vikalp03
-- The 
+- Color theme suggested by @vikalp02
+- Infant icon from http://www.iconninja.com/wrapped-baby-icon-806289
 
 [ad]: https://www.youtube.com/watch?v=R4vkVHijdQk
 [migadu]: https://www.migadu.com/en/index.html
