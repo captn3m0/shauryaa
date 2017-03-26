@@ -2,7 +2,7 @@
 title: Shauryaa.in
 description: A website about me
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://shauryaa.in" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://shauryaa.in" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Shauryaa
