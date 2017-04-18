@@ -5,7 +5,7 @@ permalink: /about/index.html
 description: "Shauryaa of the House Pundhir, the first of her name, Queen of the Andals, the Rhoynar and the First Men, Lady of the Seven Kingdoms and Protector of the Realm, the Unburnt, Breaker of Chains, Queen of Meereen, Khaleesi of the Great Grass Sea. <br>Serial Pooper, Insomniac and Sleep resistant<br>Prone to waking up my parents at the wrong hour."
 ---
 
-![](/assets/img/blog-author.jpg)
+![](/assets/img/me.jpg)
 
 ## About Me
 
@@ -24,4 +24,4 @@ You can also send a mail to <mom@shauryaa.in>,
 ---
 
 My mama takes cares of the website, and you
-can reach him at <mama@shauryaa.in>.
+can reach him at [mama@shauryaa.in](mama@shauryaa.in "mama=uncle").
